@@ -1,2 +1,2 @@
-# rubyrash
-problem solving with rubyrash.ru
+# rubyrash 
+task solving with rubyrash.ru
